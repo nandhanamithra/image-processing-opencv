@@ -1,5 +1,5 @@
 # image-processing-opencv
-Image processing using open cv
+Image processing using open cv by Mithra Nandhana BA
 
 ## Problem Statement
 Spatial Filtering and Edge Detection using the Sobel Operator
